@@ -3,7 +3,7 @@
 # Dummy Public App
 
 
-This application can be run with streamlit on the workbench.
+This application can be run with streamlit on the `FloWide` workbench.
 
 It writes out a basic text.
 
