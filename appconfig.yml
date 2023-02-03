@@ -1,6 +1,6 @@
 apps:
   dummyPublicApp:
-    app_icon: ''
+    app_icon: 'https://flowide.net/wp-content/uploads/flowide-logo-badge.svg'
     type: streamlit
     config:
       entry_file: main.py
