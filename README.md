@@ -6,3 +6,5 @@
 This application can be run with streamlit on the `FloWide` workbench.
 
 It writes out a basic text.
+
+*This text is for the new release.*
